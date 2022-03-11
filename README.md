@@ -1,4 +1,4 @@
-# Capstone
+# Capstone - CC Fraud
 Capstone Projects
 
 Credit Card Fraud Detection, with imbalanced data.
